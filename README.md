@@ -16,7 +16,7 @@ If you're trying to get in touch, may I recommend Twitter? [@luke_pighetti](http
 
 ## Interactivity
 
-[flutter_liquid_swipe](https://github.com/lukepighetti/flutter_liquid_swipe) – a faithful implementation of Cuberto's Liquid Swipe in Flutter
+⭐️ [flutter_liquid_swipe](https://github.com/lukepighetti/flutter_liquid_swipe) – a faithful implementation of Cuberto's Liquid Swipe in Flutter
 
 [flutter_hotspot](https://github.com/lukepighetti/flutter_hotspot) - build compelling tours with an API that resembles tour callouts
 
