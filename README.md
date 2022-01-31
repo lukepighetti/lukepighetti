@@ -1,6 +1,6 @@
 # Luke Pighetti
 
-Hello! I am a mobile engineer. Most people ask me to write Flutter for them.
+Hello! I am a mobile engineer. Most companies ask me to write Flutter for them.
 
 If you're trying to get in touch, may I recommend Twitter? [@luke_pighetti](https://twitter.com/luke_pighetti)
 
