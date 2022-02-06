@@ -20,6 +20,8 @@ If you're trying to get in touch, may I recommend Twitter? [@luke_pighetti](http
 
 [flutter_hotspot](https://github.com/lukepighetti/flutter_hotspot) - build compelling tours with an API that resembles tour callouts
 
+[flutter_compass_view](https://github.com/lukepighetti/flutter_compass_view) - reproduction of a well-known compass rose
+
 ## Architecture
 
 🎥 [flutter_fb_arch](https://github.com/lukepighetti/flutter_fb_arch) – convert Firebase services into a product using Dart's extension methods
