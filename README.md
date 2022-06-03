@@ -46,4 +46,7 @@ If you're trying to get in touch, may I recommend Twitter? [@luke_pighetti](http
 
 ⭐️ [wordle_calculator](https://github.com/lukepighetti/wordle_calculator) – solve daily Wordle with Dart
 
+[Squash and Yeet](https://github.com/lukepighetti/Squash-and-Yeet) – add a critical missing feature to GitHub
+
 [flutter_ibbq](https://github.com/lukepighetti/flutter_ibbq) - connect to iBBQ thermometer over bluetooth in Flutter
+
